@@ -1,0 +1,56 @@
+{
+    "fiction": [
+        {
+            "title": "Les Misérables",
+            "author": "Victor Hugo",
+            "year": 1862
+        },
+        {
+            "title": "The Brothers Karamazov",
+            "author": "Fyodor Dostoevsky",
+            "year": 1880
+        },
+        {
+            "title": "Siddhartha",
+            "author": "Hermann Hesse",
+            "year": 1922
+        },
+        {
+            "title": "The Foundation Pit",
+            "author": "Andrei Platonov",
+            "year": 1930
+        },
+        {
+            "title": "Cancer Ward",
+            "author": "Aleksandr Solzhenitsyn",
+            "year": 1968
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "year": 1960
+        },
+        {
+            "title": "The Old Man and the Sea",
+            "author": "Ernest Hemingway",
+            "year": 1952
+        }
+    ],
+    "scienceFiction": [
+        {
+            "title": "The Doomed City",
+            "author": "Arkady and Boris Strugatsky",
+            "year": 1972
+        },
+        {
+            "title": "The Three-Body Problem Trilogy",
+            "author": "Liu Cixin",
+            "year": 2008
+        },
+        {
+            "title": "The Mysterious Island",
+            "author": "Jules Verne",
+            "year": 1875
+        }
+    ]
+}
