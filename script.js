@@ -40,11 +40,14 @@ function renderBookList(container, books) {
 function createBookItem(book) {
     return `
         <li class="book-item">
-            <div class="book-info">
-                <h3 class="book-title">${escapeHtml(book.title)}</h3>
-                <p class="book-author">by ${escapeHtml(book.author)}</p>
+            <div class="book-header">
+                <div class="book-info">
+                    <h3 class="book-title">${escapeHtml(book.title)}</h3>
+                    <p class="book-author">by ${escapeHtml(book.author)}</p>
+                </div>
+                <span class="book-year">${book.year}</span>
             </div>
-            <span class="book-year">${book.year}</span>
+            <p class="book-description">${escapeHtml(book.description)}</p>
         </li>
     `;
 }

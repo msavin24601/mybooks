@@ -81,6 +81,8 @@ body {
     font-style: italic;
     font-size: 1.2rem;
     color: var(--color-brown-light);
+    max-width: 500px;
+    margin: 0 auto;
 }
 
 /* Main Content */
@@ -118,7 +120,7 @@ body {
 
 .book-item {
     display: flex;
-    align-items: baseline;
+    flex-direction: column;
     padding: 20px 25px;
     margin-bottom: 15px;
     background: linear-gradient(
@@ -171,6 +173,13 @@ body {
     color: var(--color-brown-light);
 }
 
+.book-header {
+    display: flex;
+    align-items: baseline;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
 .book-year {
     font-size: 1rem;
     color: var(--color-gold-dark);
@@ -179,6 +188,12 @@ body {
     border: 1px solid var(--color-gold);
     border-radius: 3px;
     background-color: var(--color-paper);
+}
+
+.book-description {
+    font-size: 0.95rem;
+    color: var(--color-brown-light);
+    line-height: 1.5;
 }
 
 /* Footer */
