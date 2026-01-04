@@ -4,43 +4,43 @@
             "title": "Les Misérables",
             "author": "Victor Hugo",
             "year": 1862,
-            "description": "Thanks this novel, I am convinced that a single act of mercy can transform a human being into a force for good."
+            "description": "Thanks to this novel, I am convinced that even single act of mercy can transform a human being into a force for good."
         },
         {
             "title": "The Brothers Karamazov",
             "author": "Fyodor Dostoevsky",
             "year": 1880,
-            "description": "A philosophical murder mystery that looks into the deepest questions of human existence - faith, doubt, and remorse."
+            "description": "A philosophical murder mystery that looks into the tough questions that we learned to avoid so well in our busy daily lives."
         },
         {
             "title": "Siddhartha",
             "author": "Hermann Hesse",
             "year": 1922,
-            "description": "A journey of self-discovery as a young Brahmin seeks enlightenment. Hesse offers a Western perspective on Eastern wisdom and the path to inner peace."
+            "description": "A journey of self-discovery as a young Brahmin seeks enlightenment. The novel offers a Western perspective on Eastern wisdom and the path to inner peace."
         },
         {
             "title": "The Foundation Pit",
             "author": "Andrei Platonov",
             "year": 1930,
-            "description": "A Soviet-era allegory about workers digging a foundation for a utopian building that never materializes. I absolutely love how Platonov captures the absurdity of forced collectivism."
+            "description": "A Soviet-era allegory about workers digging a foundation for a utopian building that never materializes. I absolutely adore how Platonov captures the absurdity of forced collectivism."
         },
         {
             "title": "The Old Man and the Sea",
             "author": "Ernest Hemingway",
             "year": 1952,
-            "description": "A powerful tale of endurance and dignity that reminds me that a human being can lose but they can't be defeated."
+            "description": "A powerful tale about dignity that reminds me that a human can lose but can't be defeated."
         },
         {
             "title": "To Kill a Mockingbird",
             "author": "Harper Lee",
             "year": 1960,
-            "description": "A profound exploration of moral courage that showed me what it means to do right."
+            "description": "A profound exploration of moral courage that showed me what it means and takes to do right."
         },
         {
             "title": "Cancer Ward",
             "author": "Aleksandr Solzhenitsyn",
             "year": 1968,
-            "description": "Set in a Soviet hospital, patients from all walks of life confront disease and mortality. Solzhenitsyn transforms a cancer ward into a microcosm where everyone is forced to reflect on the human condition and their life choices."
+            "description": "Set in a Soviet hospital, patients from all walks of life confront disease and mortality. Solzhenitsyn transforms a cancer ward into a microcosm where everyone is forced to reflect on their life choices."
         }
     ],
     "scienceFiction": [
@@ -48,19 +48,19 @@
             "title": "The Mysterious Island",
             "author": "Jules Verne",
             "year": 1875,
-            "description": "Five stranded prisoners must use science and creativity to survive on a mysterious island. This the dearest book of my childhood."
+            "description": "Five stranded prisoners must survive on a mysterious island. This the dearest book of my childhood, showing the triumph of science and creativity."
         },
         {
             "title": "The Doomed City",
             "author": "Arkady and Boris Strugatsky",
             "year": 1972,
-            "description": "In a surreal city where the sun is switched on and off artificially, people from different eras and nations participate in a mysterious Experiment. This is a darkly philosophical tale about human nature and impact of ideology."
+            "description": "In a surreal city people from different eras and nations participate in a mysterious Experiment. This is a darkly philosophical tale about human nature and impact of ideology."
         },
         {
             "title": "The Three-Body Problem Trilogy",
             "author": "Liu Cixin",
             "year": 2008,
-            "description": "Beginning during China's Cultural Revolution and spanning literally centuries, humanity faces an existential threat from an alien civilization. This is hard science fiction on a truly cosmic scale."
+            "description": "This is a hard science fiction novel set on a truly cosmic scale, beginning during China's Cultural Revolution and spanning for centuries. I sometimes find hard to believe that such imagination could originate from a human mind."
         }
     ]
 }
