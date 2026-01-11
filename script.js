@@ -4,10 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function loadBooks() {
     const fictionContainer = document.getElementById('fiction-books');
-    const scifiContainer = document.getElementById('scifi-books');
 
     fictionContainer.innerHTML = '<li class="loading">Loading books...</li>';
-    scifiContainer.innerHTML = '<li class="loading">Loading books...</li>';
 
     try {
         const response = await fetch('data/books.json');
@@ -19,12 +17,10 @@ async function loadBooks() {
         const data = await response.json();
 
         renderBookList(fictionContainer, data.fiction);
-        renderBookList(scifiContainer, data.scienceFiction);
 
     } catch (error) {
         console.error('Error loading books:', error);
         fictionContainer.innerHTML = '<li class="empty-state">Could not load books. Please try again later.</li>';
-        scifiContainer.innerHTML = '<li class="empty-state">Could not load books. Please try again later.</li>';
     }
 }
 
