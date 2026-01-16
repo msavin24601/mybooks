@@ -2,6 +2,8 @@
 
 A static website showcasing my favorite books and the impact they've had on me.
 
+**Live site:** https://msavin24601.github.io/mybooks/
+
 ## Development
 
 This is a static website with no build process. To run locally:
